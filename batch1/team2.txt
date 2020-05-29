@@ -1,16 +1,8 @@
 Team 2
-<<<<<<< HEAD
 1. Pidgeot
-2. Rattata
+2. Clefairy (ray)
 3. lorem ipsum
 4. lorem ipsum
 5. lorem ipsum
 6. lorem ipsum
-=======
-1. Lunala
-2. Paras
-3. Beartic
-4. Rhydon
-5. Smeargle
-6. Drizzile
->>>>>>> 2b9d8b3... [chengyuan] add 3 pokemons to 3 teams each
+
