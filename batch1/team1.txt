@@ -5,3 +5,4 @@ Team 1
 4. bulbasaur
 5. venusaur
 6. gengar
+7. Squirtle
