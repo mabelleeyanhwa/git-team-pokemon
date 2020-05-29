@@ -1,4 +1,5 @@
 Team 1
+<<<<<<< HEAD
 1. mewtwo
 2. mew
 3. pikachu
@@ -7,3 +8,11 @@ Team 1
 6. gengar
 7. Squirtle
 8. Wartortle
+=======
+1. Grookey
+2. Scorbunny
+3. Sobble
+4. Zamazenta
+5. Durant
+6. Cubchoo
+>>>>>>> 2b9d8b3... [chengyuan] add 3 pokemons to 3 teams each
