@@ -1,20 +1,9 @@
 Team 2
 1. Pidgeot
 2. Clefairy (ray)
-<<<<<<< HEAD
 3. Pikachu
 4. Bulbasaur
-<<<<<<< HEAD
-5. Fearow
-6. Charizard
-=======
-=======
-3. Ratata (jh)
-4. lorem ipsum
->>>>>>> 0b633b3... [Jh/Jh] Added Ratata in team2.txt
 5. lorem ipsum
-6. lorem ipsum
->>>>>>> 4c757f7... [Jh/Jh] Added Ratata to team2.txt
-7. Angelmon
+6. Angelmon
 
 
