@@ -4,5 +4,7 @@ Team 2
 3. Pikachu
 4. Bulbasaur
 5. Fearow
-6. lorem ipsum
+6. Charizard
 7. Angelmon
+
+
