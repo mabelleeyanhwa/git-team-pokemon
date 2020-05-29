@@ -3,5 +3,5 @@ Team 1
 2. mew
 3. pikachu
 4. bulbasaur
-5. lorem ipsum
+5. venusaur
 6. lorem ipsum
