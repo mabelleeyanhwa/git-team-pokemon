@@ -2,6 +2,6 @@ Team 1
 1. mewtwo
 2. mew
 3. pikachu
-4. lorem ipsum
+4. bulbasaur
 5. lorem ipsum
 6. lorem ipsum
