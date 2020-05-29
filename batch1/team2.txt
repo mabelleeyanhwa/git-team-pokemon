@@ -4,11 +4,6 @@ Team 2
 3. Pikachu
 4. Bulbasaur
 5. lorem ipsum
-<<<<<<< HEAD
-6. Angelmon
-7. Pikachu (Sean)
-=======
 6. Jhmon
->>>>>>> 457431d... [Jh/Jh] Added myself as pokemon
 
 
