@@ -6,3 +6,4 @@ Team 1
 5. venusaur
 6. gengar
 7. Squirtle
+8. Wartortle
