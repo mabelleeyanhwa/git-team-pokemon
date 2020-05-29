@@ -4,4 +4,4 @@ Team 1
 3. pikachu
 4. bulbasaur
 5. venusaur
-6. lorem ipsum
+6. gengar
